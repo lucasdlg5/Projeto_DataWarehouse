@@ -1,4 +1,4 @@
-drop database bike_factory;
+--drop database bike_factory;
 
 create database bike_factory;
 use bike_factory;
@@ -28,7 +28,7 @@ create table tbl_client (
 );
 create table tbl_employee (
 	emp_id int primary key identity,
-    emp_role varcahr(150),
+    emp_role varchar(150),
 
 	prs_id int foreign key references tbl_person (prs_id)
 );
