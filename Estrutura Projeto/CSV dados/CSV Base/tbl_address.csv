@@ -1,0 +1,301 @@
+﻿ads_id;ads_street_name;ads_number;ads_neighborhood;ads_city;ads_state
+1;Donald;378;Kentucky;Louisville;Massachusetts
+2;Cascade;155;Florida;Jacksonville;Texas
+3;Jana;883;Ohio;Akron;Utah
+4;Pennsylvania;207;Wisconsin;Madison;Maryland
+5;Lawn;86;Iowa;Des Moines;Virginia
+6;Mosinee;457;California;Richmond;District of Columbia
+7;Fair Oaks;699;California;Torrance;Virginia
+8;Bonner;474;Texas;El Paso;North Dakota
+9;Main;549;California;San Diego;Idaho
+10;Lawn;221;New York;Rochester;Florida
+11;Transport;714;Florida;Fort Lauderdale;North Carolina
+12;Springs;714;Oklahoma;Tulsa;Tennessee
+13;Continental;868;District of Columbia;Washington;California
+14;Vidon;74;Washington;Spokane;Hawaii
+15;Bowman;587;Florida;Jacksonville;Texas
+16;Sunfield;331;California;Irvine;California
+17;Straubel;712;Ohio;Cleveland;Texas
+18;Armistice;185;Michigan;Grand Rapids;Texas
+19;Fair Oaks;471;California;Irvine;Iowa
+20;Village;298;Oregon;Beaverton;Texas
+21;Lakewood Gardens;426;Virginia;Herndon;Missouri
+22;Raven;74;Oklahoma;Oklahoma City;North Carolina
+23;Florence;444;Missouri;Saint Louis;Oregon
+24;Ronald Regan;762;California;Los Angeles;Michigan
+25;Farmco;614;Florida;Miami Beach;West Virginia
+26;Anniversary;394;Texas;Tyler;Florida
+27;Mockingbird;860;Texas;Dallas;Idaho
+28;Nancy;559;Connecticut;Waterbury;New York
+29;Pond;539;Kentucky;Lexington;California
+30;Susan;620;Tennessee;Nashville;Tennessee
+31;Reinke;496;Connecticut;Danbury;Virginia
+32;Dexter;712;Pennsylvania;Philadelphia;Texas
+33;Hoepker;322;Texas;El Paso;Minnesota
+34;Packers;984;Colorado;Fort Collins;Iowa
+35;Veith;433;Washington;Seattle;Illinois
+36;Oneill;132;Tennessee;Memphis;Ohio
+37;Walton;96;Kentucky;Louisville;District of Columbia
+38;Elmside;250;Connecticut;Hartford;California
+39;High Crossing;10;Virginia;Roanoke;California
+40;Blackbird;269;Florida;Miami;New York
+41;Grim;312;Alabama;Birmingham;Ohio
+42;Schlimgen;814;California;Berkeley;California
+43;East;156;California;San Jose;Oklahoma
+44;Browning;651;Pennsylvania;Erie;California
+45;Mallard;507;Georgia;Columbus;Colorado
+46;East;292;New York;Albany;Kansas
+47;Mayer;439;Virginia;Norfolk;Texas
+48;Sunfield;219;Montana;Billings;Florida
+49;Prentice;505;Pennsylvania;Pittsburgh;Florida
+50;Scofield;825;North Carolina;Raleigh;Texas
+51;Pond;873;Texas;San Antonio;Texas
+52;Forest Run;884;Texas;Conroe;Louisiana
+53;Dixon;181;Alabama;Anniston;Nebraska
+54;Trailsway;755;Iowa;Des Moines;North Carolina
+55;Lillian;428;Florida;Pensacola;New York
+56;Northfield;351;Mississippi;Jackson;Louisiana
+57;Sutherland;366;Ohio;Springfield;Tennessee
+58;Mallory;254;California;San Diego;Georgia
+59;Raven;595;Texas;El Paso;New Jersey
+60;Merry;309;Florida;Orlando;Ohio
+61;Blaine;103;Idaho;Idaho Falls;Pennsylvania
+62;Pierstorff;435;California;Sacramento;South Carolina
+63;Stephen;553;Missouri;Saint Louis;Texas
+64;Autumn Leaf;754;District of Columbia;Washington;Texas
+65;Maywood;539;Florida;Boynton Beach;Texas
+66;Westerfield;33;Washington;Seattle;Washington
+67;Cambridge;150;Virginia;Roanoke;California
+68;Prairie Rose;86;Florida;Sarasota;California
+69;Lakewood;817;California;San Jose;Illinois
+70;Jenifer;351;Georgia;Duluth;Iowa
+71;Wayridge;756;Texas;Dallas;Arizona
+72;Clyde Gallagher;361;Texas;Fort Worth;Virginia
+73;Stone Corner;224;Nebraska;Lincoln;Wisconsin
+74;Jana;718;Connecticut;Bridgeport;Mississippi
+75;Golf;523;Texas;El Paso;New York
+76;Division;513;Florida;Naples;Florida
+77;Loomis;364;Pennsylvania;Philadelphia;South Carolina
+78;Moulton;540;Colorado;Denver;Alabama
+79;Mayer;473;South Carolina;Aiken;Oklahoma
+80;Roxbury;387;Colorado;Denver;District of Columbia
+81;Chive;212;Minnesota;Saint Cloud;Indiana
+82;Arizona;501;Georgia;Columbus;Texas
+83;Pleasure;323;New Jersey;Trenton;Minnesota
+84;Manley;692;Florida;Seminole;Virginia
+85;Green Ridge;919;Tennessee;Memphis;Georgia
+86;Montana;877;Kentucky;Louisville;California
+87;Mcbride;746;Virginia;Arlington;Nevada
+88;Drewry;925;Nebraska;Omaha;North Carolina
+89;Ridge Oak;75;Florida;Cape Coral;Colorado
+90;Brown;407;Florida;Miami;Texas
+91;Spaight;91;Florida;Pensacola;Virginia
+92;Farragut;51;California;Sacramento;Kansas
+93;Roth;998;West Virginia;Charleston;Florida
+94;Rusk;510;Nevada;Sparks;New York
+95;Golf View;443;North Carolina;Wilmington;California
+96;Linden;455;Georgia;Atlanta;Georgia
+97;Banding;447;Arizona;Phoenix;Connecticut
+98;Dennis;915;Arizona;Phoenix;North Carolina
+99;Nancy;21;New Mexico;Santa Fe;Kansas
+100;Banding;512;Texas;Houston;Utah
+101;Clyde Gallagher;780;North Carolina;Charlotte;California
+102;Fisk;282;Pennsylvania;Harrisburg;Florida
+103;Anhalt;656;Arkansas;Little Rock;Mississippi
+104;Dunning;881;California;Corona;Missouri
+105;Forster;591;California;San Diego;New Hampshire
+106;Washington;580;Arkansas;Fort Smith;California
+107;Nancy;309;Tennessee;Knoxville;Illinois
+108;Veith;347;Ohio;Columbus;Illinois
+109;Marquette;981;Wisconsin;Madison;Minnesota
+110;Memorial;572;Texas;Dallas;District of Columbia
+111;Westend;200;Arizona;Scottsdale;Delaware
+112;Pearson;663;California;Sacramento;Arizona
+113;Kropf;40;South Carolina;Charleston;Texas
+114;Buell;384;Georgia;Albany;California
+115;Scott;125;South Carolina;Greenville;Maryland
+116;Sunnyside;715;California;Sacramento;Washington
+117;Pepper Wood;968;Indiana;Evansville;Oklahoma
+118;Independence;5;District of Columbia;Washington;Virginia
+119;Gina;353;California;Sacramento;Idaho
+120;Golf View;966;California;Northridge;New Jersey
+121;Holmberg;45;Texas;Huntsville;Iowa
+122;Morning;812;New York;New York City;Pennsylvania
+123;Towne;689;West Virginia;Huntington;Ohio
+124;Westridge;29;Texas;El Paso;North Carolina
+125;Sundown;336;Georgia;Atlanta;Minnesota
+126;Nobel;721;Michigan;Detroit;California
+127;Mesta;257;California;Concord;California
+128;5th;357;Tennessee;Memphis;California
+129;Oneill;53;California;Sacramento;Massachusetts
+130;Clyde Gallagher;167;Virginia;Norfolk;New Hampshire
+131;Kings;637;California;San Diego;California
+132;Manley;965;Illinois;Peoria;Florida
+133;Anhalt;518;Texas;Midland;Texas
+134;Arizona;306;Missouri;Saint Louis;Oklahoma
+135;Fallview;57;Texas;El Paso;Massachusetts
+136;Anniversary;962;Oregon;Portland;Virginia
+137;Debra;783;California;San Jose;Georgia
+138;Roxbury;206;California;Sacramento;Florida
+139;Novick;721;New York;Rochester;Texas
+140;Talisman;853;South Dakota;Sioux Falls;Minnesota
+141;Oneill;957;Utah;Salt Lake City;Delaware
+142;Dunning;597;Texas;San Angelo;Washington
+143;Green Ridge;508;Kentucky;Lexington;Florida
+144;Continental;645;New York;New York City;Connecticut
+145;Esch;108;Pennsylvania;Erie;Ohio
+146;Hanson;679;Illinois;Decatur;Connecticut
+147;Hintze;450;Washington;Kent;Wisconsin
+148;Kinsman;574;Ohio;Cincinnati;Michigan
+149;Londonderry;520;California;Concord;Massachusetts
+150;Barnett;457;California;San Francisco;Illinois
+151;Delladonna;429;Indiana;Indianapolis;California
+152;Talisman;659;Florida;Panama City;Alabama
+153;Daystar;92;California;Sacramento;Florida
+154;Melby;862;Georgia;Macon;Arizona
+155;Hanover;757;Texas;Austin;New York
+156;Melby;303;Illinois;Chicago;Minnesota
+157;Lien;423;Florida;Orlando;District of Columbia
+158;Grayhawk;317;New York;Syracuse;California
+159;Bluejay;496;Washington;Spokane;Pennsylvania
+160;Porter;44;Missouri;Saint Louis;Utah
+161;Prentice;128;Texas;Fort Worth;Florida
+162;Morrow;575;California;Pasadena;Pennsylvania
+163;South;349;Florida;Tampa;Virginia
+164;Judy;960;Alabama;Tuscaloosa;Texas
+165;Oneill;622;New Mexico;Albuquerque;Texas
+166;Straubel;448;Connecticut;New Haven;Wisconsin
+167;Crest Line;456;Virginia;Herndon;Alaska
+168;Anniversary;717;Louisiana;Baton Rouge;Florida
+169;Maple;343;Florida;Orlando;Kansas
+170;Division;657;South Carolina;Spartanburg;Wisconsin
+171;Hermina;975;District of Columbia;Washington;Illinois
+172;Melody;254;New York;New York City;West Virginia
+173;5th;470;North Carolina;Winston Salem;Virginia
+174;Becker;566;New York;Albany;Michigan
+175;Eliot;913;Texas;El Paso;California
+176;Oak;391;Missouri;Springfield;New York
+177;Ronald Regan;611;Nebraska;Lincoln;Hawaii
+178;Sullivan;866;California;Northridge;Ohio
+179;Jana;406;Missouri;Saint Louis;Virginia
+180;Mallory;235;Tennessee;Chattanooga;Missouri
+181;Cambridge;42;Louisiana;Baton Rouge;District of Columbia
+182;Bayside;999;Florida;Fort Lauderdale;Kentucky
+183;Bayside;315;Virginia;Richmond;Arizona
+184;Memorial;21;Texas;Midland;Kentucky
+185;Spenser;728;Colorado;Boulder;Michigan
+186;Menomonie;37;Missouri;Kansas City;Minnesota
+187;Longview;474;Texas;Corpus Christi;Texas
+188;Muir;926;Nevada;Las Vegas;Indiana
+189;Duke;655;California;Sacramento;Texas
+190;Calypso;549;Utah;Salt Lake City;Florida
+191;Mayfield;483;North Carolina;Greensboro;New York
+192;3rd;132;Michigan;Southfield;Georgia
+193;Sloan;641;Georgia;Savannah;Texas
+194;Waywood;962;Alabama;Mobile;Maryland
+195;Grim;775;New York;New York City;Texas
+196;Hovde;894;New York;New York City;Texas
+197;Hanson;200;Kansas;Shawnee Mission;Florida
+198;Orin;388;Texas;Temple;Texas
+199;Fuller;780;Georgia;Columbus;Florida
+200;Parkside;773;Ohio;Cincinnati;Virginia
+201;Holmberg;55;Colorado;Denver;New York
+202;Shopko;692;Michigan;Detroit;Kentucky
+203;Oak;555;Kansas;Wichita;Texas
+204;Lawn;548;Georgia;Decatur;Illinois
+205;Charing Cross;473;Ohio;Columbus;West Virginia
+206;Ridge Oak;63;Arizona;Phoenix;California
+207;Canary;879;Kansas;Topeka;Michigan
+208;Boyd;383;California;Bakersfield;Nevada
+209;Carberry;247;District of Columbia;Washington;Texas
+210;Ridge Oak;366;Texas;Abilene;Arkansas
+211;Donald;187;North Carolina;High Point;Illinois
+212;Lakewood;38;New Mexico;Albuquerque;California
+213;Continental;627;Georgia;Savannah;Colorado
+214;Bunker Hill;844;District of Columbia;Washington;Delaware
+215;Esker;930;Alabama;Montgomery;District of Columbia
+216;Becker;813;Florida;Panama City;Alabama
+217;Derek;613;Washington;Seattle;Florida
+218;Forest Dale;393;Texas;Houston;Connecticut
+219;Ryan;278;Florida;West Palm Beach;Nebraska
+220;Twin Pines;8;Oklahoma;Oklahoma City;Wyoming
+221;Mayfield;312;Virginia;Alexandria;Texas
+222;Nancy;195;Texas;El Paso;Illinois
+223;Milwaukee;172;New York;New York City;California
+224;Tomscot;723;New York;Jamaica;Alabama
+225;Sunbrook;993;Texas;Texarkana;California
+226;Comanche;63;Colorado;Pueblo;Texas
+227;Porter;163;Tennessee;Memphis;Minnesota
+228;Briar Crest;726;Alaska;Anchorage;California
+229;Bonner;93;Indiana;Terre Haute;Massachusetts
+230;Crownhardt;392;North Carolina;Charlotte;Virginia
+231;Merry;551;Mississippi;Hattiesburg;California
+232;Stone Corner;809;Indiana;Indianapolis;Massachusetts
+233;Holy Cross;825;Missouri;Kansas City;New Jersey
+234;Gateway;500;Florida;Sarasota;Virginia
+235;Kenwood;747;Georgia;Atlanta;Tennessee
+236;Spohn;824;Oklahoma;Tulsa;Pennsylvania
+237;Park Meadow;405;South Carolina;Columbia;California
+238;Russell;118;Florida;Pensacola;Indiana
+239;Dahle;106;Texas;Houston;Florida
+240;Meadow Valley;647;New York;White Plains;New York
+241;Granby;796;Mississippi;Jackson;Texas
+242;Mayfield;175;Wisconsin;Milwaukee;Washington
+243;Village Green;715;California;Sacramento;California
+244;Cardinal;153;Alabama;Birmingham;Florida
+245;Briar Crest;919;Delaware;Wilmington;New Mexico
+246;Gina;871;California;San Rafael;Colorado
+247;Sullivan;809;Alaska;Juneau;Florida
+248;Arkansas;382;California;Los Angeles;Wisconsin
+249;Hermina;289;Florida;Miami;District of Columbia
+250;Emmet;894;Texas;Tyler;Georgia
+251;Gina;288;Maryland;Silver Spring;Montana
+252;Spohn;200;Maryland;Bowie;Virginia
+253;4th;433;Tennessee;Jackson;Louisiana
+254;Lotheville;586;Georgia;Atlanta;Texas
+255;Shelley;329;California;Riverside;Washington
+256;John Wall;703;Colorado;Colorado Springs;California
+257;Mitchell;854;Nevada;Las Vegas;Florida
+258;Derek;607;District of Columbia;Washington;New York
+259;Dryden;281;Texas;San Antonio;California
+260;Service;766;New York;Albany;Virginia
+261;Norway Maple;128;Massachusetts;Boston;New York
+262;Ludington;837;Alabama;Birmingham;Pennsylvania
+263;Becker;808;Florida;Jacksonville;Texas
+264;Larry;937;Florida;Port Charlotte;Illinois
+265;Loomis;879;Arizona;Tucson;California
+266;Merchant;889;Virginia;Suffolk;Ohio
+267;Hermina;201;California;San Francisco;Iowa
+268;Manitowish;342;Florida;Spring Hill;Texas
+269;Mesta;884;Utah;Salt Lake City;Missouri
+270;Dexter;204;Florida;Sarasota;Texas
+271;Redwing;383;Ohio;Dayton;California
+272;Oriole;171;Florida;Pensacola;Alabama
+273;Mandrake;217;South Dakota;Sioux Falls;Wisconsin
+274;Randy;495;Indiana;Indianapolis;Kansas
+275;Annamark;901;New York;Syracuse;Louisiana
+276;Nova;468;California;Sacramento;New York
+277;Dahle;92;Oklahoma;Oklahoma City;Missouri
+278;Little Fleur;73;North Carolina;Charlotte;Texas
+279;Declaration;557;Alabama;Gadsden;Alabama
+280;Manitowish;640;Georgia;Columbus;Virginia
+281;Fair Oaks;431;Missouri;Saint Louis;Louisiana
+282;East;735;Ohio;Akron;Louisiana
+283;Porter;374;Kansas;Wichita;Pennsylvania
+284;Westerfield;851;Florida;Miami;North Carolina
+285;Harper;974;Kansas;Topeka;Montana
+286;Burrows;321;Nevada;Las Vegas;Washington
+287;Logan;162;California;Long Beach;Maryland
+288;Fisk;190;New York;Brooklyn;Ohio
+289;Westport;349;Hawaii;Honolulu;New Jersey
+290;Cordelia;259;Georgia;Decatur;Florida
+291;Dexter;865;New Jersey;Newark;Louisiana
+292;Anzinger;136;Iowa;Des Moines;Pennsylvania
+293;Northview;376;District of Columbia;Washington;Minnesota
+294;Steensland;224;Texas;Spring;Texas
+295;Oak Valley;717;South Dakota;Sioux Falls;South Carolina
+296;Vernon;640;Florida;Punta Gorda;Virginia
+297;Lunder;271;New York;New York City;Mississippi
+298;Ilene;362;California;Fresno;Texas
+299;Veith;48;California;San Diego;Virginia
+300;West;193;Missouri;Springfield;Texas
