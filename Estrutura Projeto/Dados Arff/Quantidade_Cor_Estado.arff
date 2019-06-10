@@ -1,0 +1,34 @@
+@RELATION compras_bicicleta
+
+@attribute Quantidade {1,2,3,4,5,6,7,8,9,10}
+@attribute Cor {Amarelo,Azul,Branco,Laranja,Preto,Rosa,Verde,Vermelho}
+@attribute Estado {Aiken,Albany,Atlanta,Austin,BatonRouge,Berkeley,Birmingham,Bridgeport,Cleveland,ColoradoSprings,Columbia,Dallas,Danbury,Decatur,Detroit,Duluth,ElPaso,Erie,FortCollins,FortWorth,Houston,Indianapolis,Irvine,Jacksonville,KansasCity,LosAngeles,Madison,Memphis,Miami,MiamiBeach,Milwaukee,NewHaven,NewYorkCity,Norfolk,Northridge,PanamaCity,Pensacola,Peoria,Phoenix,PortCharlotte,Pueblo,Richmond,Roanoke,Sacramento,SaintLouis,SaltLakeCity,SanDiego,SanRafael,SantaFe,Savannah,SiouxFalls,Southfield,Spring,SpringHill,Tampa,Topeka,Tyler,WhitePlains,Wilmington,WinstonSalem}
+
+@data
+3,Amarelo,NewYorkCity
+9,Preto,Dallas
+7,Amarelo,SanDiego
+7,Amarelo,Spring
+9,Vermelho,Decatur
+10,Rosa,NewHaven
+7,Vermelho,Aiken
+4,Verde,BatonRouge
+9,Verde,ElPaso
+9,Rosa,Tyler
+9,Branco,ColoradoSprings
+7,Preto,WhitePlains
+4,Azul,NewYorkCity
+2,Preto,Sacramento
+5,Preto,Bridgeport
+7,Azul,SanDiego
+1,Rosa,Miami
+1,Rosa,NewYorkCity
+10,Verde,MiamiBeach
+6,Branco,Northridge
+5,Vermelho,Norfolk
+10,Branco,NewYorkCity
+4,Branco,WinstonSalem
+10,Laranja,Spring
+
+
+
